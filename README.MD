@@ -27,7 +27,6 @@ ehm-analytics/
 ├── docs/
 │   ├── EHM_Modelling_Assumptions.pdf     # Seven modelling assumptions with prepared answers
 │   ├── EHM_Project_Scope.pdf             # Six-phase project roadmap
-│   └── EHM_Project_Handover_v2.pdf       # Full project continuity document
 │
 ├── phase1_data_generator/
 │   ├── EHM_Phase1_v3_Rebuild.ipynb       # Synthetic fleet data generator
@@ -168,7 +167,7 @@ Full pinned versions: `requirements.txt`
 
 ## Running the Notebooks
 
-All notebooks are designed for **Google Colab**. Open each notebook in Colab, upload `ehm_synthetic_fleet_v3.csv` when prompted, and run cells top to bottom.
+All notebooks are designed for **Google Colab**, and coded using Claude. Open each notebook in Colab, upload `ehm_synthetic_fleet_v3.csv` when prompted, and run cells top to bottom.
 
 Phases must be run in order (1 → 2 → 3 → 4) as each phase builds on the dataset and findings of the previous one.
 
