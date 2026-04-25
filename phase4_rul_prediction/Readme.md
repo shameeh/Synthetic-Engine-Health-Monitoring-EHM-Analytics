@@ -1,5 +1,8 @@
 # Phase 4 — Remaining Useful Life (RUL) Prediction
 
+<img width="2752" height="1536" alt="unnamed (5)" src="https://github.com/user-attachments/assets/7874a496-093b-4fc9-b6a2-3e8b55f19dc4" />
+
+
 ## What this phase does
 
 Builds two RUL regression models (XGBoost and LSTM) and answers five analytical questions — covering accuracy, model comparison, feature importance, per-engine diagnostic triage, and initial condition effects.
