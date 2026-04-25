@@ -14,6 +14,8 @@ EHM is the discipline of tracking this degradation in real time using on-wing se
 
 The goal of modern EHM is to predict *when* the margin will reach that threshold — the **Remaining Useful Life (RUL)** — accurately enough to optimise maintenance scheduling across an entire fleet.
 
+<img width="2752" height="1536" alt="unnamed (1)" src="https://github.com/user-attachments/assets/276c55de-156a-45e4-a528-bbbf65e7ad78" />
+
 ---
 
 ## Project Structure
