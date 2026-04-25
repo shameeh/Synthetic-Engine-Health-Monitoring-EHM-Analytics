@@ -1,5 +1,7 @@
 # Phase 1 — Synthetic Data Generator
 
+<img width="2752" height="1536" alt="unnamed (2)" src="https://github.com/user-attachments/assets/3b484ff0-d6a1-4e0d-8bef-39ae254a63b5" />
+
 ## What this phase does
 
 Generates a realistic synthetic fleet dataset for a two-spool turbofan engine (CFM56-5B class). One row per flight cycle per engine. Every value traces back to a documented physical equation.
