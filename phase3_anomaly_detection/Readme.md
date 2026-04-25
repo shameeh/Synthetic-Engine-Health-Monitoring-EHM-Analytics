@@ -1,5 +1,8 @@
 # Phase 3 — Anomaly Detection
 
+<img width="2752" height="1536" alt="unnamed (4)" src="https://github.com/user-attachments/assets/542ccd7e-f647-4cf0-aea0-d1105c1e43b7" />
+
+
 ## What this phase does
 
 Detects two distinct types of anomaly using three methods. The framing — two anomaly types, not one — came from understanding the physics before writing any code.
