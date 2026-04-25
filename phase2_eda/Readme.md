@@ -1,5 +1,7 @@
 # Phase 2 — Exploratory Data Analysis
 
+<img width="2752" height="1536" alt="unnamed (3)" src="https://github.com/user-attachments/assets/e576dac6-b223-407a-9a48-1534011aa830" />
+
 ## What this phase does
 
 Answers five analytical questions about the synthetic fleet from a maintenance controller's perspective. The questions came from the analyst, not from the code.
